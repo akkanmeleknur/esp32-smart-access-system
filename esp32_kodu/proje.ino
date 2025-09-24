@@ -6,11 +6,11 @@
 #include <time.h>
 
 // ======== Wi-Fi ve Firestore Ayarları ========
-const char* ssid = "Karahisar_Foto";
-const char* password = "+st011550+";
+const char* ssid = "~~";
+const char* password = "~~";
 
-const String FIREBASE_PROJECT_ID = "sistem-ca3d9";
-const String FIREBASE_API_KEY = "AIzaSyChwWPxsEVTfpJFiksn4JX0iqLtlV47O6o";
+const String FIREBASE_PROJECT_ID = "sistem-~~";
+const String FIREBASE_API_KEY = "~~";
 const String KARTLAR_COLLECTION = "Kartlar";
 const String HAREKETLER_COLLECTION = "Hareketler";
 
